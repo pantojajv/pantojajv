@@ -1,13 +1,20 @@
-# olá, eu sou o João Vitor (@pantojajv)👋
+# Hi there, I'm João Vitor (@pantojajv) 👋
 
+### 🎓 Education / Formação
+- Course: Computer Science (Class of 2026) | Ciência da Computação (Turma 2026)
+- Institution:** CESUPA
 
-### 🎓 Formação
-- Curso: Ciência da Computação - Turma 2026
+### 🚀 Interests / Interesses na Área
+- Coding:** C, Python, and JavaScript
+- Fields:** Artificial Intelligence, Data Science, and Embedded Systems
+- Business:** Project Management and Entrepreneurship
 
-### 🚀 Interesses na Área
-- Programação em C, python, JS
-- Inteligência Artificial e Dados 
-- Gestão de Projetos e Empreendedorismo
-- Sistemas embarcados
-### 🎯 Objetivo para este semestre
-- Dominar a lógica de programação e iniciar o desenvolvimento de ferramentas de automação financeira.
+### 🌱 Currently Learning / Aprendendo no momento
+- Master of Programming Logic and Data Structures.
+- Developing financial automation tools.
+
+### 🎯 Semester Goal / Objetivo para este semestre
+- To consolidate my foundation in computing and start building my first professional-grade automation projects.
+
+---
+*“This repository marks the beginning of my career in Computer Science.”
