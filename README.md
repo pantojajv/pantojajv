@@ -1,16 +1,13 @@
-## Hi there 👋
+# olá, eu sou o João Vitor (@pantojajv)👋
 
-<!--
-**pantojajv/pantojajv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🎓 Formação
+- Curso: Ciência da Computação - Turma 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Interesses na Área
+- Programação em C, python, JS
+- Inteligência Artificial e Dados 
+- Gestão de Projetos e Empreendedorismo
+- Sistemas embarcados
+### 🎯 Objetivo para este semestre
+- Dominar a lógica de programação e iniciar o desenvolvimento de ferramentas de automação financeira.
